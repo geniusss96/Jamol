@@ -1,0 +1,8 @@
+MYSQL malumot turlari:
+int - raqam.
+varchar - string. kichik tekst (ism,familiya,email) maksimum 256.
+text - string.65 000 belgi qabul qilishi mumkin.
+longtext - string. 4gb text qabul qiladi.
+decimal - kasr son.
+date - sana.
+datemine - sana va vaqt.
